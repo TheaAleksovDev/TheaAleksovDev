@@ -7,11 +7,13 @@
 
 - 👨‍💻 Here is my website [https://theaaleksovdev.github.io/Personal-Website/#](https://theaaleksovdev.github.io/Personal-Website/#)
 
-- 🎨I have a great knowledge about Design, and am proficient in **Adobe Photoshop, Adobe Illustrator, Blender**
-
 - 👾 Before starting with front-end, I was learning **Java, Python**
 
-- ⚡ Fun fact **I draw digital ad traditional realistic portraits(instagram: @teadraws2))**
+- 💻 Currently working with **JavaScript, React, HTML, CSS**
+
+- 🎨I have a great knowledge about Design, and I'm proficient in **Adobe Photoshop, Adobe Illustrator, Blender**
+
+- ⚡ Fun fact **I draw digital ad traditional realistic portraits (instagram: @teadraws2))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
