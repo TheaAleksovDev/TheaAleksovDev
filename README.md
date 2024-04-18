@@ -13,7 +13,7 @@
 
 - 🎨I have a great knowledge about Design, and I'm proficient in **Adobe Photoshop, Adobe Illustrator, Blender**
 
-- ⚡ Fun fact **I draw digital ad traditional realistic portraits (instagram: @teadraws2))**
+- ⚡ Fun fact **I draw digital and traditional realistic portraits (instagram: @teadraws2))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
