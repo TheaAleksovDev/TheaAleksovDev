@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thea</h1>
-<h3 align="center">A passionate front-end developer from Serbia</h3>
 
 <p align="left"> <a href="https://twitter.com/thea_codes" target="blank"><img src="https://img.shields.io/twitter/follow/thea_codes?logo=twitter&style=for-the-badge" alt="thea_codes" /></a> </p>
 
