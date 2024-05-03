@@ -8,7 +8,7 @@
 
 - 👾 Before starting with front-end, I was learning **Java, Python**
 
-- 💻 Currently working with **JavaScript/TypeScript, React, HTML, CSS**
+- 💻 Currently working with **JavaScript/TypeScript, React, Firebase HTML, CSS**
 
 - 🎨I have a great knowledge about Design, and I'm proficient in **Adobe Photoshop, Adobe Illustrator, Blender**
 
