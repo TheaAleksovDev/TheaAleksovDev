@@ -19,7 +19,7 @@
 <a href="https://twitter.com/thea_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thea_codes" height="30" width="40" /></a>
 <a href="https://instagram.com/teadraws2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teadraws2" height="30" width="40" /></a>
 </p>
-<a href="linkedin.com/in/tea-aleksov-120252245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="tea-aleksov" height="30" width="40" /></a>
+<a href="linkedin.com/in/tea-aleksov-120252245" target="blank"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="tea-aleksov" height="30" width="40" /></a>
 </p>
 
 
