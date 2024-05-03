@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Here is my website [https://theaaleksovdev.github.io/Personal-Website/#](https://theaaleksovdev.github.io/Personal-Website/#)
+- 👨‍💻 Here is my website [https://aleksovtea.netlify.app/](https://aleksovtea.netlify.app/)
 
 - 👾 Before starting with front-end, I was learning **Java, Python**
 
