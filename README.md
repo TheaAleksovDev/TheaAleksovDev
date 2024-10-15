@@ -2,13 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/thea_codes" target="blank"><img src="https://img.shields.io/twitter/follow/thea_codes?logo=twitter&style=for-the-badge" alt="thea_codes" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 Here is my website [https://aleksovtea.netlify.app/](https://aleksovtea.netlify.app/)
 
 - 👾 Before starting with front-end, I was learning **Java, Python**
 
-- 💻 Currently working with **JavaScript/TypeScript, React, Firebase HTML, CSS**
+- 💻 Currently working with **JavaScript/TypeScript, React, Angular, Firebase, HTML, CSS**
 
 - 🎨I have a great knowledge about Design, and I'm proficient in **Adobe Photoshop, Adobe Illustrator, Blender**
 
